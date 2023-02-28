@@ -29,6 +29,10 @@ Lenguaje de marcas
 
 13/03 Sistemas Informaticos. 
 
+<<<<<<< HEAD
 prueba654654	
+=======
+prueba4		
+>>>>>>> rama3
 
 
