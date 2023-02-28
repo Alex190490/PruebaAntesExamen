@@ -1,0 +1,32 @@
+11 entidad relacion
+15 relacional
+16 fisico
+
+20 trabajo html. 
+21 entornos
+23 lenguaje
+25 practicos teorico
+
+
+28 teorica redes sistemas.
+
+--------------------------------------------
+Lenguaje de marcas
+
+15/02/23    Examen XML y JSON Examen DTD 
+17/02 Control programacion
+
+
+1/03/23    Examen entornos Git, Pruebas caja blanca, caja negra 
+
+03/02 BBDD 
+
+7/03	    Programacion 
+
+08/03  	    Examen XSD (lenguaje)
+
+
+
+13/03 Sistemas Informaticos. 		
+
+
